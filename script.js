@@ -4,22 +4,7 @@ const cuerpoPagina = document.querySelector("");
 const detalles = document.querySelector("");
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Codigo que utiliza los elementos obtenidos con querySelector */
 
 
 cuerpoPagina.style.backgroundColor = "#213f19";
